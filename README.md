@@ -1,4 +1,6 @@
-## Blockchain Developer
+## Full Stack Engineer
+### Blockchain
+### Web
 ##### Founder of [HtoStudios](https://www.htostudios.com)
 
 You can contact me and say hi via my
