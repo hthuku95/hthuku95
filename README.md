@@ -3,7 +3,7 @@
 ### Web
 ### Machine Learning
 ### DevOps
-##### Founder of [HtoStudios](https://www.htostudios.com)
+##### Founder of [VideoSync](https://www.videosync.ink)
 
 You can contact me and say hi via my
 [Twitter](https://www.twitter.com/blackhatthuku),
